@@ -1,0 +1,4 @@
+.aws/
+.envrc
+.gitconfig.local
+local.nix
